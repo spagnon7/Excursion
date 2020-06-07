@@ -30,7 +30,21 @@ h2 {
     font-size: 42px;
 }
 
-p {
+p, span {
     font-size: 21px;
+    color: gray;
+}
+
+/* Coming Soon Section  */
+
+img {
+    margin-top: 30px;
+}
+
+/* Footer Section  */
+
+footer {
+    text-align: right;
+    margin-top: 40px;
     color: gray;
 }
